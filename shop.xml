@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MyShop name="刘丹的小店">
+    <count>10000</count>
+    <describe>这是我开的小店，叫我丹姐</describe>
+    <orders>
+        <order orderNumber="ZSL002">
+            <shopName>Wish3</shopName>
+            <price>200$</price>
+            <purDate>2018-12-05 12:58:15</purDate>
+            <amount>10</amount>
+            <customer name="刘丹3">
+                <gender>女</gender>
+                <phoneNo>18229607008</phoneNo>
+                <address state="美国">
+                    <province>啊啊省</province>
+                    <city>啊啊市</city>
+                    <street>啊啊街道</street>
+                </address>
+            </customer>
+        </order>
+        <order orderNumber="ZSL001">
+            <shopName>Wish</shopName>
+            <price>100$</price>
+            <purDate>2018-12-05 12:58:15</purDate>
+            <amount>10</amount>
+            <customer name="刘丹">
+                <gender>女</gender>
+                <phoneNo>18229607008</phoneNo>
+                <address state="中国">
+                    <province>湖南省</province>
+                    <city>长沙市</city>
+                    <street>天心街道</street>
+                </address>
+            </customer>
+        </order>
+    </orders>
+    <address state="中国36666">
+        <province>湖南省333</province>
+        <city>长沙市33</city>
+        <street>天心街道33</street>
+    </address>
+</MyShop>
